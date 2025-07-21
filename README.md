@@ -21,6 +21,9 @@ This GitHub Action will comment on PRs with:
 ```bash
 git clone https://github.com/jpeseWang/ai-pr-review-bot.git
 cd ai-pr-review-bot
+```
+
+
 
 # 📘 User Guide – AI PR Review Bot
 
